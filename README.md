@@ -13,10 +13,9 @@ Este repositório contém as minhas soluções para 8 desafios do curso "Python 
 
 <br>
 
+
 <p align="center">
-  <img alt="Python" src= "[[[https://github.com/recioes/nft-project/blob/62e45fa0002f4950e6ed59c398c549ca2eab3ea0/design/desktop-preview.jpg](https://user-images.githubusercontent.com/118849369/239408222-18ce0433-45f6-4f31-b4fa-9a034d6fe5f2.jpg)](https://user-images.githubusercontent.com/118849369/239408222-18ce0433-45f6-4f31-b4fa-9a034d6fe5f2.jpg)](https://user-images.githubusercontent.com/118849369/239408222-18ce0433-45f6-4f31-b4fa-9a034d6fe5f2.jpg)">
-</p>
-<p align="center">
+  <img alt="Python" src= "https://user-images.githubusercontent.com/118849369/239409455-9545ab7b-8ad2-408a-a5bb-cc70ca97dcee.png">
 </p>
 
 ## 🚀 Tecnologias
